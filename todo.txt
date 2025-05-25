@@ -1,0 +1,13 @@
+{
+    "alice": [
+        {
+            "task": "Buy vatta",
+            "done": true
+        },
+        {
+            "task": "Call PSPK",
+            "done": true
+        }
+    ],
+    "Sudhir": []
+}
