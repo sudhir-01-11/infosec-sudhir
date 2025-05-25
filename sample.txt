@@ -1,0 +1,21 @@
+num1 = 5 6 +
+num2 = num1 2 *
+check = num2 10 >
+
+if check
+    flag = 1
+else
+    flag = 0
+endif
+
+counter = 0
+while counter 3 <
+    counter = counter 1 +
+end
+
+total = 0
+for idx = 1 to 5
+    total = total idx +
+endfor
+
+print Welcome to our custom language execution!
